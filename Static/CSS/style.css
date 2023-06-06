@@ -1,0 +1,48 @@
+ul{
+    list-style-type: none;
+    background-color: crimson;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li, a{padding: 15px;
+    display: block;
+    color: gold;
+    font-family: "DejaVu Serif";
+    font-size: 20px;
+}li a:hover{
+    background-color: greenyellow;
+ }
+ .fruits{
+     background-color: blue;
+     border: 2px dotted red;
+     margin: 20px;
+     padding: 20px;
+     text-align: center;
+     font-family: "Droid Sans Mono Dotted";
+ }
+ .cars{
+     background-color: red;
+     border: black;
+     margin: 20px;
+     padding: 20px;
+     text-align: center;
+     font-family: "DejaVu Serif";
+ }
+ .FRUITS{
+     background-color: yellow;
+     border: blue;
+     margin: 10px;
+     padding: 20px;
+     text-align: center;
+     font-family: "Abyssinica SIL";
+ }
+ #cars{
+     background-color: lightblue;
+     border: black;
+     margin: 20px;
+     padding: 20px;
+     text-align: center;
+     font-family: "Fira Code";
+ }
